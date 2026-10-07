@@ -1,0 +1,12 @@
+{
+  "name": "kingdom-rush-mods",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kingdom Rush 1 mods: plugin host + unlimited tower specialisation upgrades + gold jump",
+  "scripts": {
+    "test": "node tests/krspec_test.js && node tests/krmods_test.js"
+  },
+  "devDependencies": {
+    "fengari": "^0.1.4"
+  }
+}
